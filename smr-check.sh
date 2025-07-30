@@ -2,6 +2,9 @@
 
 # Forked from BasilHendroff due to not having been updated in several years.
 
+##### Version 2.0
+echo "smr_check Version 2.0"
+
 # Table column widths
 DeviceWidth=7
 ModelWidth=15
