@@ -142,7 +142,7 @@ ST32=("ST" "4000" "VX013")                  #2 #5 Skyhawk(3.5 UK) 4TB
 ST33=("ST" "2000" "VX015")                  #2 #5 Skyhawk(3.5 UK) 2TB
 ST34=("ST" "3000" "VX016")                  #2    Skyhawk(3.5) 3TB
 ST35=("ST" "3000" "VX017")                  #2    Skyhawk(3.5) 3TB
-ST36=("ST" "32000" "26000" "NM003K"         #10   Mosaic 3+ (3.5) 32TB 36TB
+ST36=("ST" "32000" "26000" "NM003K")        #10   Mosaic 3+ (3.5) 32TB 36TB
 
 # Toshiba
 TO01=("DT02" "400" "600" "ABA")             #1 #7 DT02(3.5) 4TB 6TB
